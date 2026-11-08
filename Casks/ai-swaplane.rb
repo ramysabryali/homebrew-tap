@@ -1,6 +1,6 @@
 cask "ai-swaplane" do
-  version "0.1.0"
-  sha256 "8ba195a9a340a9fcfef5f3d5b7859309298516b48669ecd86eab27a342cbd364"
+  version "0.2.0"
+  sha256 "a404ec2639dace848bd5c0b1e2aa2a3edbaa5c9865eb186f9d79ad47f719422e"
 
   url "https://github.com/ramysabryali/ai-swaplane/releases/download/#{version}/AI-Swaplane-#{version}.zip"
   name "AI Swaplane"
